@@ -1,6 +1,3 @@
-gyre
-====
-
 install
 -------
 
@@ -144,7 +141,7 @@ These are the events that shells emit.
 -	exec
 -	destroy
 
-##co-routines
+###co-routines
 
 Keep in mind that unlike the **co** library you can only yield promises to perform asynchronous operations. Any other value is treated as a synchronous value.
 
