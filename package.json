@@ -1,0 +1,12 @@
+{
+  "name": "gyre",
+  "version": "1.0.0",
+  "devDependencies": {
+    "then-fs": "^2.0.0"
+  },
+  "dependencies": {
+    "carefree-states": "^1.0.1",
+    "events-lite": "^0.1.0",
+    "more-events": "^1.1.0"
+  }
+}
