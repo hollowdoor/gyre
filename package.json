@@ -1,6 +1,6 @@
 {
   "name": "gyre",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "then-fs": "^2.0.0"
   },
@@ -8,5 +8,9 @@
     "carefree-states": "^1.0.1",
     "events-lite": "^0.1.0",
     "more-events": "^1.1.0"
-  }
+  },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/hollowdoor/gyre.git"
+    }
 }
